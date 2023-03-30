@@ -1,0 +1,18 @@
+h3 {
+    font-size: 25px;
+}
+
+canvas {
+    margin: 20px;
+}
+
+body {
+    background-image: url(fundo.webp);
+}
+
+button {
+    background-color:rgb(225, 62, 244);
+    color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px;
+}
